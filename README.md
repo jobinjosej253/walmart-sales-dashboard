@@ -47,7 +47,7 @@ The dashboard includes:
 - **Payment method breakdown** by transaction count and quantity
 - **Total profit by category**
 
-> 💡 To explore the dashboard interactively, download `walmart_sales_dashboard.pbix`
+> 💡 To explore the dashboard interactively, download `walmart_dashboard.pbix`
 > and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 
 ## 🚀 How to Run the Analysis
