@@ -36,7 +36,7 @@ performance, payment behavior, and profit over time.
 
 ## 📈 Power BI Dashboard
 
-![Walmart Dashboard](images/walmart_dashboard.png)
+![Walmart Dashboard](Images/walmart_dashboard.png)
 
 The dashboard includes:
 - **KPI cards** total profit, total sales
